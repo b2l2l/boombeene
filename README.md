@@ -14,6 +14,7 @@ boombeene.com is a website based in iraq for people without visa/online payments
  
  
  - Installation - 
+ - 
   1- Upload the files to the main Directory .
 
   2- Create a DATABASE . 
@@ -23,6 +24,7 @@ boombeene.com is a website based in iraq for people without visa/online payments
   4- import Data.SQL to your database 
   
   Default Username:admin
+  
   Default Password:bilal12345
  
     Enjoy The Script  
