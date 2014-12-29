@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#Code Written By bilal barzinji /Ali Alzubidy . b2l2l.com #al-i7san ORG
+>>>>>>> origin/site_files
 <?php
 include "./configs/config.php" ; 
 ?>
@@ -408,4 +412,8 @@ include "./theme/footer.php";
                             
                             
                             
+<<<<<<< HEAD
                             
+=======
+                            
+>>>>>>> origin/site_files
