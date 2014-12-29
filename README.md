@@ -11,6 +11,17 @@ boombeene.com is a website based in iraq for people without visa/online payments
  2-Sending money between users function . 
  
  
+ 
+ 
+ - Installation - 
+  1- Upload the files to the main Directory .
+  2- Create a DATABASE . 
+  3- Edit config/config.php with user/pass/database name 
+  4- import Data.SQL to your database 
+ 
+    Enjoy The Script  
+ 
+  
  we can Re-design or make any wishes come true with the script 
  contact B@b2l2l.com 
  
